@@ -14,8 +14,7 @@ This project is based around the testing (math and reading) performance of high 
 
   ***How is the school summary affected?**
   The overall performance for Thomas High School dropped significantly when removing the 9th grade class. Thomas went from being a top performing school with an    
-  overall passing rate of ~90.6% to ~65.1%. The reading and math overall percentage passing for Thomas High School faced similar drops (from 97.3% and 93.4% to     
-  69.7% and 66.9%, respectively). 
+  overall passing rate of ~90.6% to ~65.1%. The reading and math overall percentage passing for Thomas High School faced similar drops (from 97.3% and 93.4% to    69.7% and 66.9%, respectively). 
   
   ***How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
   With the revised number from Thomas High, the school went from being a top performer to a bottom performer. Thomas went from being the second best performing   
