@@ -9,15 +9,15 @@ This project is based around the testing (math and reading) performance of high 
 
 
 ## Results ##
-  * How is the district summary affected?
+  **How is the district summary affected?**
   The disrtict summary had litte affect from the removal fo the Thomas High School 9th graders, despite removing the scores of 461 9th graders. The overall passing   percetnage for both math and reading combined went down by only 0.3% with the average reading school staying hte same nad the average math score only going down     by 0.1%.
   
-  * How is the school summary affected?
+  ***How is the school summary affected?**
   
   
-  * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+  ***How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
   
-  * How does replacing the ninth-grade scores affect the following:
+  ***How does replacing the ninth-grade scores affect the following:**
       * Math and reading scores by grade
       
       * Scores by school spending
